@@ -16,7 +16,7 @@ export default function Navbar() {
   }, []);
 
   const navLinks = [
-    { name: "หน้าแรก 1", href: "#hero" },
+    { name: "หน้าแรก", href: "#hero" },
     { name: "หลักสูตรที่เปิดสอน", href: "#programs" },
     { name: "จุดเด่น & อัตลักษณ์", href: "#highlights" },
     { name: "รอบรับสมัคร & ค่าเทอม", href: "#tcas-fees" },
